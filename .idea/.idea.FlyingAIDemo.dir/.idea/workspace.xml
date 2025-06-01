@@ -8,65 +8,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0448df6b-5a36-40e6-9242-2528cf6943e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FlyingAIDemo.dir/.idea/AndroidProjectSystem.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config/DefaultFACore.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/BT/BT_AI1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_DemoAIController1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_DemoAIController2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_DemoCharacter.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_DemoGamemode.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_FADisplayBoard.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_FATrigger1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_FATrigger2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/WBP_Display0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DA_FABD_BP_FABoundDisplay_C_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DA_FABD_BP_FABoundDisplay_C_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DA_FABD_BP_FABoundDisplay_C_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DA_FABD_BP_FABoundDisplay_C_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1Combined.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1_0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_1_7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4Combined.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4_0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_4_7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5Combined.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5_0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_5_7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6Combined.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6_0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/FAData/DT_BP_FABoundDisplay_C_6_7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FlyingAIDemo.uproject.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/FlyingAIPlugin/Config/FilterPlugin.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlyingAIDemo.dir/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlyingAIDemo.dir/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FlyingAIDemo.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FlyingAIDemo.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_FABoundDisplay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Blueprints/BP_FABoundDisplay.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/FlyingAIDemo/Maps/DemoLevel.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/FlyingAIDemo/Maps/DemoLevel.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FACore/Public/FABoundData.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FACore/Public/FABoundData.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Maps/StarterMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Maps/StarterMap.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +24,6 @@
     <option name="firstShow" value="false" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/AIModule/Classes/AIController.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/AIModule/Classes/Tasks/AITask_MoveTo.h" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/AIModule/Private/AIController.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -91,12 +37,22 @@
     <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/AIModule/Private/BehaviorTree/Tasks/BTTask_MoveTo.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/AIModule/Private/Navigation/PathFollowingComponent.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/AIModule/Private/Tasks/AITask_MoveTo.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Private/Async/TaskTrace.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Private/Tasks/TaskPrivate.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Public/Async/Fundamental/Task.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Public/Math/Vector.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Public/Tasks/Task.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Public/Tasks/TaskConcurrencyLimiter.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Public/Tasks/TaskPrivate.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Epic Games/UE_5.5/Engine/Source/Runtime/Core/Public/Templates/RefCounting.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FlyingAIDemo.uproject" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/FlyingAIPlugin.uplugin" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FABehaviourTree/Private/AITask_FlyTo.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FABehaviourTree/Private/BTTask_FlyTo.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FABehaviourTree/Public/AITask_FlyTo.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FABehaviourTree/Public/BTTask_FlyTo.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FACore/Private/FAWorldSubsystem.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FACore/Public/FABound.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FACore/Public/FABoundData.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/FlyingAIPlugin/Source/FACore/Public/FAPathfindingSettings.h" root0="FORCE_HIGHLIGHTING" />
@@ -240,7 +196,9 @@
       <workItem from="1748432023733" duration="206000" />
       <workItem from="1748438325889" duration="4741000" />
       <workItem from="1748517974138" duration="1462000" />
-      <workItem from="1748524212303" duration="1067000" />
+      <workItem from="1748524212303" duration="6952000" />
+      <workItem from="1748602379478" duration="929000" />
+      <workItem from="1748641395945" duration="2702000" />
     </task>
     <servers />
   </component>
