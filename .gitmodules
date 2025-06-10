@@ -1,0 +1,3 @@
+[submodule "Plugins/FlyingAIPlugin"]
+	path = Plugins/FlyingAIPlugin
+	url = https://github.com/JustinLTH3/FlyingAIPlugin.git
